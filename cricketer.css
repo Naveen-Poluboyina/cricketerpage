@@ -19,6 +19,7 @@
 .cricketer-bottom-sec{
   background-color: #e6f6ff;
   padding: 18px;
+  
 }
 
 .bottom-sec-side-heading{
@@ -52,7 +53,31 @@
 }
 
 .image{
-  height:153px;
+  height:180px;
 }
+
+.video-sec-dec{
+  font-family: "roboto";
+  color:#323f4b;
+  font-size: 14px;
+  width:110px;
+}
+
+.button{
+  height: 36px;
+  width: 100px;
+  background-color:blue;
+  color: #ffffff;
+  font-family: "roboto";
+  border-width:0px;
+  border-radius: 10px;
+}
+
+.video-image{
+  width: 110px
+}
+
+
+
 
 
