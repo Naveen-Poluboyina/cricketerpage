@@ -1,0 +1,58 @@
+.cricketer-top-sec{
+  background-color: #fb4e71;
+  padding: 18px;
+}
+
+.top_sec_heading{
+  color:#ffffff;
+  font-family:"roboto";
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.top_sec_desc{
+  color:#e8eaed;
+  font-family:"roboto";
+  font-size: 16px;
+}
+
+.cricketer-bottom-sec{
+  background-color: #e6f6ff;
+  padding: 18px;
+}
+
+.bottom-sec-side-heading{
+  font-family: "roboto";
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.bottom-card-sec{
+  background-color:#ffffff;
+  border-radius: 12px;
+  margin-bottom: 16px;
+}
+
+.card-heading{
+  font-family:"roboto";
+  font-size: 18px;
+  color: #323f4b;
+  
+}
+
+.card-desc{
+  font-family:"roboto";
+  color: #888888;
+  font-size: 16px;
+}
+
+.padding{
+  padding: 18px;
+}
+
+.image{
+  height:153px;
+}
+
+
